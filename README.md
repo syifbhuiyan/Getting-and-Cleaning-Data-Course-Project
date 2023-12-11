@@ -43,4 +43,4 @@ File with R code "run_analysis.R" perform 5 following steps (in accordance assig
 4. Appropriately labeling the data set with descriptive variable names   
 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject   
   5.1 Making second tidy data set   
-  5.2 Writing second tidy data set in txt file   
+  5.2 Writing second tidy data set in txt file
